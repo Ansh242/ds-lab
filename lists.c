@@ -50,7 +50,6 @@ int main() {
     int choice, value;
 
     while (1) {
-        printf("\n--- Linked List Menu ---\n");
         printf("1. Insert at Front\n");
         printf("2. Delete from Front\n");
         printf("3. Display List\n");
